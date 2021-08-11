@@ -1,0 +1,27 @@
+/* Main Styling */
+.container {
+    background-color: gray;
+    width: 100%;
+}
+/* Start nav-bar Styling */
+.nav-bar {
+    background-color: black;
+    width: 500px;
+    height: 70px;
+    text-align: center;
+    margin: auto;
+}
+.nav-bar-link {
+    color :white;
+    /* display: inline-block; */
+    /* width: 150px; */
+}
+/* End nav-bar Styling */
+/* Start item section Styling */
+.item {
+    width:700px;
+    margin: auto;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+/* End item section Styling */
